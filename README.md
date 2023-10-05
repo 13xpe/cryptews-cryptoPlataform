@@ -3,7 +3,7 @@ Introducing Cryptews: Your All-in-One Crypto Companion
 
 Cryptews is your go-to website for effortlessly keeping up with the exciting world of cryptocurrencies. With its user-friendly interface and powerful features, it's the perfect tool to stay informed and make informed decisions in the crypto market.
 
-Key Features:
+There's 3 main functionalities on the website, they are:
 
 📈 Real-Time Market Prices: Get up-to-the-minute updates on cryptocurrency prices from various exchanges. Whether you're tracking Bitcoin, Ethereum, or any other digital asset, Cryptews has you covered.
 
