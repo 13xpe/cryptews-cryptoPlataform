@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include('./partials/head.ejs') %>
+  <body style="background-color: azure;">
+    <%- include('./partials/nav.ejs') %>
+    <div class="blogs content">
+
+      <div style="display: flex; flex-direction: row;">
+      </div>
+      
+      <h3> List of id Cities and Humidity</h3>
+      <% for (let i = 0; i < humidities.length; i++) { %>
+        <div style="background-color: rgb(171, 180, 182); margin-bottom: 10px;">
+          <h4><%= humidities[i].city %>:</h4>
+          <p>Humidity: <%= humidities[i].hum %>% </p>
+        </div>
+      <% } %>
+
+      <h3> List of Cryptocurrenct and Prices </h3>
+      <% for (let i = 0; i < prices.length; i++) { %>
+        <div style="background-color: rgb(200, 169, 169); margin-bottom: 10px;">
+          <h4><%= prices[i].name %>:</h4>
+          <p>Price: <%= prices[i].price %> USD</p>
+        </div>
+      <% } %> 
+      
+   
+    </div>
+
+    <%- include('./partials/footer.ejs') %>
+  </body>
+</html>
