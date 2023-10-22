@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <%- include('./partials/head.ejs') %>
-  <body style="background-color: azure;">
+  <body style="background-color: rgb(248, 243, 243);">
     <%- include('./partials/nav.ejs') %>
     <div class="blogs content">
 
@@ -10,7 +10,7 @@
       
       <h3> List of id Cities and Humidity</h3>
       <% for (let i = 0; i < humidities.length; i++) { %>
-        <div style="background-color: rgb(171, 180, 182); margin-bottom: 10px;">
+        <div style="background-color: rgb(173, 197, 202); margin-bottom: 10px;">
           <h4><%= humidities[i].city %>:</h4>
           <p>Humidity: <%= humidities[i].hum %>% </p>
         </div>
