@@ -19,4 +19,5 @@ There are 3 main functionalities on the website, they are:
 <br>
 <img width="1050" alt="Screenshot 2023-11-16 at 14 52 25" src="https://github.com/13xpe/cryptews-cryptoPlataform/assets/124820216/2c3feff5-09fe-461a-8c26-e9187d012456">
 </br><br></br>
+Want to give a look? Click<a href="[url](http://13.58.235.73/)">HERE</a> :) 
 Our main goal is to help individuals getting introduced to the crypto world in an easy and fast way. Feel free to contribute and make Cryptews even better!
