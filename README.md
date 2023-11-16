@@ -9,8 +9,8 @@ There are 3 main functionalities on the website, they are:
 
 <li>Real-Time Market Prices: Get up-to-the-minute updates on cryptocurrency prices from various exchanges. Whether you're tracking Bitcoin, Ethereum, or any other digital asset, Cryptews has you covered.</li>
 
-Latest News: Stay in the know with the latest crypto news and trends. We gather news articles from trusted sources to ensure you're always in the loop.
+<li>Latest News: Stay in the know with the latest crypto news and trends. We gather news articles from trusted sources to ensure you're always in the loop.</li>
 
-Built-In Converter: Easily convert one cryptocurrency to another with our built-in converter. Whether you're curious about the value of your favorite coin in Bitcoin, Ethereum, or your local currency, Cryptews has you covered.
+<li>Built-In Converter: Easily convert one cryptocurrency to another with our built-in converter. Whether you're curious about the value of your favorite coin in Bitcoin, Ethereum, or your local currency, Cryptews has you covered.</li>
 
-Our main goal is to help individuals getting introduced to the crypto world in an easy and fast way. Feel free to contribute and make Cryptews even better!
+<li>Our main goal is to help individuals getting introduced to the crypto world in an easy and fast way. Feel free to contribute and make Cryptews even better!</li>
