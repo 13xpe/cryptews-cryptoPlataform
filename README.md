@@ -21,6 +21,6 @@ There are 3 main functionalities on the website, they are:
 </br><br></br>
 Want to give a look? Click <a href="http://13.58.235.73"> HERE</a> :) 
 <br></br>
-This project was built to practice using of API connections, EJS language and server side work. The platform is using AWS has server. 
+This project was built to practice the using of API connections, EJS language and server side work. The platform is using AWS has server. 
 <br></br>
 Our main goal is to help individuals getting introduced to the crypto world in an easy and fast way. Feel free to contribute and make Cryptews even better!
