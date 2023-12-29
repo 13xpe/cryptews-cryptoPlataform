@@ -1,5 +1,5 @@
 # cryptews-cryptoPlataform
-Introducing Cryptews: Your All-in-One Crypto Companion
+Cryptews: Your All-in-One Crypto Companion
 
 <img width="868" alt="Screenshot 2023-11-16 at 14 42 57" src="https://github.com/13xpe/cryptews-cryptoPlataform/assets/124820216/caa2be1c-91a1-4814-9739-9bf2d43bb181">
 
